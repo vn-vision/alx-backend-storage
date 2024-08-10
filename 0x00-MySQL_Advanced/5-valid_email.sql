@@ -1,6 +1,7 @@
 -- create trigger that resets attribute valid_email
 -- only when the email has been changed
 
+DROP TRIGGER IF EXISTS valid;
 DELIMITER //
 
 CREATE TRIGGER valid
