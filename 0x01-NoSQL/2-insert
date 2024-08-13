@@ -1,6 +1,6 @@
 // script inserts a document in the collection school
 // has an attribute name:Holberton school | my_db is passed as option
 
-db.school.insertOne({
+db.school.insert({
 "name":"Holberton School",
 })
