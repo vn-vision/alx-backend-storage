@@ -2,5 +2,5 @@
 // has an attribute name:Holberton school | my_db is passed as option
 
 db.school.insert({
-"name":"Holberton School",
+"name":"Holberton school",
 })
